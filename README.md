@@ -109,11 +109,11 @@ bookmark-organisator/
 
 **Mit geladenen Lesezeichen (Vivaldi-Browser):**
 
-![Bookmark-Organisator mit Lesezeichen](screenshots/bookmark-organisator-01.webp)
+![Bookmark-Organisator Startansicht](screenshots/bookmark-organisator-02.webp)
 
 **Startansicht (leer):**
 
-![Bookmark-Organisator Startansicht](screenshots/bookmark-organisator-02.webp)
+![Bookmark-Organisator mit Lesezeichen](screenshots/bookmark-organisator-01.webp)
 
 ---
 
