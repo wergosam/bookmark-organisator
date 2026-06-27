@@ -67,6 +67,18 @@ Ein leistungsstarker Desktop-Lesezeichen-Manager für Linux, gebaut mit Python u
 
 ---
 
+## 🖼️ Screenshots
+
+**Mit geladenen Lesezeichen (Vivaldi-Browser):**
+
+![Bookmark-Organisator mit Lesezeichen](screenshots/bookmark-organisator-01.webp)
+
+**Startansicht (leer):**
+
+![Bookmark-Organisator Startansicht](screenshots/bookmark-organisator-02.webp)
+
+---
+
 ## 📋 Voraussetzungen
 
 - **Python** 3.10 oder neuer
